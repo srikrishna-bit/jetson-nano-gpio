@@ -1,3 +1,11 @@
+git clone https://github.com/srikrishna-bit/jetson-nano-gpio.git
+
+
+
+
+
+
+
 # Jetson.GPIO - Linux for Tegra
 
 Jetson TX1, TX2, AGX Xavier, and Nano development boards contain a 40 pin GPIO
